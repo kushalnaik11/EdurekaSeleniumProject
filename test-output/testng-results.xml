@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88860" started-at="2020-04-24T13:22:32Z" finished-at="2020-04-24T13:24:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88860" started-at="2020-04-24T13:22:32Z" finished-at="2020-04-24T13:24:01Z">
+      <class name="co.edureka.TestPackages.TestCaseClass">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2020-04-24T13:22:32Z" finished-at="2020-04-24T13:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="beforeClass" is-config="true" duration-ms="4" started-at="2020-04-24T13:22:32Z" finished-at="2020-04-24T13:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethodClass()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="beforeMethodClass" is-config="true" duration-ms="7010" started-at="2020-04-24T13:22:32Z" finished-at="2020-04-24T13:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodClass -->
+        <test-method status="PASS" signature="returnTicket()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="returnTicket" duration-ms="81816" started-at="2020-04-24T13:22:39Z" finished-at="2020-04-24T13:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- returnTicket -->
+        <test-method status="PASS" signature="close()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="close" is-config="true" duration-ms="0" started-at="2020-04-24T13:24:01Z" finished-at="2020-04-24T13:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-24T13:24:01Z" finished-at="2020-04-24T13:24:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:co.edureka.TestPackages.TestCaseClass@343f4d3d]" name="afterSuite" is-config="true" duration-ms="829" started-at="2020-04-24T13:24:01Z" finished-at="2020-04-24T13:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- co.edureka.TestPackages.TestCaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
